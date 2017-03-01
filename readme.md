@@ -7,6 +7,9 @@ La búsqueda se realizará contra todas las preguntas que tengamos en base de da
 Mostrar el listado de las preguntas con la palabra buscada resaltada en negrita y al realizar click sobre la pregunta accedemos a la siguiente vista.
 La siguiente vista irá encabezada por la pregunta en si y un listado de las respuestas ordenadas por el número de validaciones recibidas (count_validantions en base de datos)
 
+![alt tag](https://resources.entrenar.me/list_questions.png)
+![alt tag](https://resources.entrenar.me/view_questions.png)
+
 
 ## Para instalar
 
